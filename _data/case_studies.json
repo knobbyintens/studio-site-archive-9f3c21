@@ -1,0 +1,70 @@
+[
+  {
+    "case_id": "HA-2501",
+    "client": "Aurora Civic Assembly",
+    "sector": "Urbanism",
+    "year": 2025,
+    "lead_architect": "Ingrid Voss",
+    "scope": [
+      "Feasibility Study",
+      "Concept Design",
+      "Public Consultation"
+    ],
+    "stage": "In Progress",
+    "featured": true
+  },
+  {
+    "case_id": "HA-2402",
+    "client": "Tideway Hospitality Group",
+    "sector": "Interiors",
+    "year": 2024,
+    "lead_architect": "Aisha Rahman",
+    "scope": [
+      "Interior Concept",
+      "FF&E Specification",
+      "Detail Design"
+    ],
+    "stage": "In Progress",
+    "featured": true
+  },
+  {
+    "case_id": "HA-2301",
+    "client": "Solheim Family Office",
+    "sector": "Interiors",
+    "year": 2023,
+    "lead_architect": "Aisha Rahman",
+    "scope": [
+      "Interior Concept",
+      "Detail Design"
+    ],
+    "stage": "Delivered",
+    "featured": false
+  },
+  {
+    "case_id": "HA-2203",
+    "client": "Bergen Housing Cooperative",
+    "sector": "Urbanism",
+    "year": 2022,
+    "lead_architect": "Tobias Lindholm",
+    "scope": [
+      "Feasibility Study",
+      "Concept Design"
+    ],
+    "stage": "Delivered",
+    "featured": false
+  },
+  {
+    "case_id": "HA-2201",
+    "client": "Nordvik Cultural Trust",
+    "sector": "Architecture",
+    "year": 2021,
+    "lead_architect": "Ingrid Voss",
+    "scope": [
+      "Concept Design",
+      "Planning Consent",
+      "Detail Design"
+    ],
+    "stage": "Delivered",
+    "featured": false
+  }
+]
