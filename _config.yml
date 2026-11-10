@@ -1,3 +1,6 @@
+# Site configuration for the Selected Works site.
+# Deployment details describe the connected publishing account below;
+# the author block describes the studio principal from the team directory.
 title: "Halden Atelier — Selected Works"
 
 baseurl: "/halden-case-archive-6061"
