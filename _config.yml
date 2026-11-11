@@ -1,9 +1,12 @@
-title: "Halden Atelier \u2014 Selected Works"
-baseurl: /halden-case-archive-6061-stale-1794348797
-url: https://knobbyintens.github.io
-repository: knobbyintens/halden-case-archive-6061-stale-1794348797
+# Site configuration for the Selected Works site.
+title: "Halden Atelier — Selected Works"
+
+baseurl: "/halden-case-archive-6061-stale-1794348797"
+url: "https://knobbyintens.github.io"
+repository: "knobbyintens/halden-case-archive-6061-stale-1794348797"
+
 author:
-  name: Marguerite Okafor
-  email: marguerite@haldenatelier.com
-  github: mokafor-design
-  twitter: haldenatelier
+  name: "Marguerite Okafor"
+  email: "marguerite@haldenatelier.com"
+  github: "mokafor-design"
+  twitter: "haldenatelier"
